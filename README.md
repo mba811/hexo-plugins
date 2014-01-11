@@ -1,28 +1,14 @@
-# [Hexo] Plugins
+# Hexo Plugins
 
-Official plugins for [Hexo].
+## Deprecated
 
-- [Plugin List](https://github.com/tommy351/hexo/wiki/Plugins)
-- [Plugin development](http://zespia.tw/hexo/docs/plugins.html)
+All Hexo plugins are separated into repositories.
 
-## Usage
-
-### Install
-
-```
-npm install <plugin-name> --save
-```
-
-### Update
-
-```
-npm update
-```
-
-### Uninstall
-
-```
-npm uninstall <plugin-name>
-```
-
-[Hexo]: http://zespia.tw/hexo
+- [hexo-generator-feed](https://github.com/hexojs/hexo-generator-feed)
+- [hexo-generator-sitemap](https://github.com/hexojs/hexo-generator-sitemap)
+- [hexo-migrator-rss](https://github.com/hexojs/hexo-migrator-rss)
+- [hexo-migrator-sitemap](https://github.com/hexojs/hexo-migrator-sitemap)
+- [hexo-renderer-coffeescript](https://github.com/hexojs/hexo-renderer-coffeescript)
+- [hexo-renderer-haml](https://github.com/hexojs/hexo-renderer-haml)
+- [hexo-renderer-jade](https://github.com/hexojs/hexo-renderer-jade)
+- [hexo-renderer-less](https://github.com/hexojs/hexo-renderer-less)
